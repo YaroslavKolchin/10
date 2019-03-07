@@ -1,0 +1,7 @@
+C:\Users\Артур\Desktop\шаг\Homework-modul_2-master\homework\obj\Debug\homework.csprojAssemblyReference.cache
+C:\Users\Артур\Desktop\шаг\Homework-modul_2-master\homework\obj\Debug\homework.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\шаг\Homework-modul_2-master\homework\bin\Debug\homework.exe.config
+C:\Users\Артур\Desktop\шаг\Homework-modul_2-master\homework\bin\Debug\homework.exe
+C:\Users\Артур\Desktop\шаг\Homework-modul_2-master\homework\bin\Debug\homework.pdb
+C:\Users\Артур\Desktop\шаг\Homework-modul_2-master\homework\obj\Debug\homework.exe
+C:\Users\Артур\Desktop\шаг\Homework-modul_2-master\homework\obj\Debug\homework.pdb
